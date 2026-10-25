@@ -1,0 +1,2 @@
+kernel:  7.3.0-gentoo #4 SMP PREEMPT Fri Oct 23 17:58:49 CEST 2026
+sources: sys-kernel/gentoo-sources-7.3.0 (USE: abi_x86_64 amd64 elibc_glibc experimental kernel_linux symlink)
